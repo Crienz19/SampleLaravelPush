@@ -12,6 +12,6 @@
 
     </head>
     <body>
-        <h1>Testing git pull --rebase!</h1>
+        <h1>Git Feature One!</h1>
     </body>
 </html>
